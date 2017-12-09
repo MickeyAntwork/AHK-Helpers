@@ -1,0 +1,3 @@
+{3399FF}Версия v1.0.0         
+{FFFFFF}Создан {FF00FF}AHK Helper
+{FFFFFF}Просмотр команды {FF00FF}/mmcmd
