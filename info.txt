@@ -1,0 +1,7 @@
+{3399FF}AHK Helper{EEEE00} v1.0.0
+{3399FF}Разработчик скрипта: Mickey Antwork
+
+{FFFFFF}Регистрация в скрипте: {FF8C00}/mmreg
+{FFFFFF}Обновить информацию о регистрации: {FF8C00}/mmtryreg
+{FFFFFF}Список команд: {FF8C00}/mmcmd
+{FFFFFF}Последние обновления: {FF8C00}/updates
